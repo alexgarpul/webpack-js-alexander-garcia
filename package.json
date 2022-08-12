@@ -1,0 +1,16 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "este es el esqueleto de un proyecto inicializado con webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack"
+  },
+  "author": "Alexander García",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
